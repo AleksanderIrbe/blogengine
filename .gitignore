@@ -3,3 +3,8 @@ __pycache__
 *.pyc
 __pycache__
 *.pyc
+__pycache__
+/lib/python3.6/__pycache__/
+/blog/__pycache__/
+blog/migrations/__pycache__/
+venv/lib/python3.6/__pycache__/
